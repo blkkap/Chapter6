@@ -1,5 +1,4 @@
-//Project name: FileR.Java
-//Author: Jaidan Dovala
+
 //Class: CSC110
 //Date: 04/07/21
 //Description:We will use this starting file to show an example of reading and writing to stream files.
