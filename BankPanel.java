@@ -1,5 +1,4 @@
-//Project Name:BankPanel
-//Author:J.Dovala
+
 //Date:02/07/21
 //Class:CSC110
 //Description: Bank Panel That displays user info 
