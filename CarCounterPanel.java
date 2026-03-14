@@ -1,5 +1,4 @@
-//ProjectName: CarCounterPanel
-//Author: J.Dovala
+
 //Date:29/06/21
 //Class:CSC110
 //Description:Car Counter Panel stores info that is called into Car Counter
