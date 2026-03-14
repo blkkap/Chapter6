@@ -1,5 +1,4 @@
-//ProjectName: CarCounter 
-//Author: J.Dovala
+
 //Date:29/06/21
 //Class:CSC110
 //Description:CarCounter tester
