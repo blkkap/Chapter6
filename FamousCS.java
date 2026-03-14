@@ -1,5 +1,4 @@
-//Project name: FamousCS java
-//Author: J.Dovala
+
 //Date: 04/07/21
 //Class:CSC110
 // Description: List/files of famous computer scientist 
